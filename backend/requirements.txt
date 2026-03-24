@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+Pillow
+cryptography
+pydantic
+supabase
+python-dotenv
+bcrypt

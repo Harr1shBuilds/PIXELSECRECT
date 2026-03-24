@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+.npm
+.DS_Store
